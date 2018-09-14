@@ -1,0 +1,3 @@
+[submodule "gitbook-module1"]
+	path = gitbook-module1
+	url = git@github.com:coursepress-lab/gitbook-module1.git
