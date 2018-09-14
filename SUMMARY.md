@@ -2,5 +2,5 @@
 
 * [Initial page](README.md)
 * [Test](test/README.md)
-* [Submodule](https://github.com/coursepress-lab/gitbook-module1/README.md)
+* [Submodule](gitbook-module1 @ a4ef9b9/README.md)
 
